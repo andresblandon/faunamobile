@@ -1,0 +1,19 @@
+{
+    "app_id" : "com.fauna.lms",
+    "appname": "Fauna",
+    "desktopappname": "Fauna Desktop",
+    "versioncode" : "2020",
+    "versionname" : "3.3.5",
+    "cache_expiration_time" : 300000,
+    "default_lang" : "es",
+    "languages": {"en": "English", "es": "Español"},
+    "wsservice" : "moodle_mobile_app",
+    "wsextservice" : "local_mobile",
+    "demo_sites": {},
+    "gcmpn": "694767596569",
+    "customurlscheme": "moodlemobile",
+    "siteurl": "http://fauna.digital",
+    "skipssoconfirmation": "false",
+    "forcedefaultlanguage": "false",
+    "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
+}
